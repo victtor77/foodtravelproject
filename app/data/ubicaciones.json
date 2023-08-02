@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "coordenadas": [-24.7761,-65.4093],
+        "direccion": "O'Higgins 575"
+    },
+    {
+        "id" : 2,
+        "coordenadas": [-24.7778,-65.4114],
+        "direccion": "Balcarce 999"
+    },
+    {
+        "id" : 3,
+        "coordenadas": [-24.7746,-65.4117],
+        "direccion": "12 de Octubre 756"
+    },
+    {
+        "id" : 4,
+        "coordenadas": [-24.7763, -65.4096],
+        "direccion": "Bartolomé Mitre 1086"
+    },
+    {
+        "id" : 5,
+        "coordenadas": [-24.7750, -65.4092],
+        "direccion": "12 de Octubre 581"
+    },
+    {
+        "id" : 6,
+        "coordenadas": [-24.7758, -65.4138],
+        "direccion": "O'Higgins 903"
+    },
+    {
+        "id" : 7,
+        "coordenadas": [-24.774579, -65.412441],
+        "direccion": "12 de Octubre 802"
+    }
+]
